@@ -1,0 +1,22 @@
+_repo: William-Mackay-on-T-W-Robertson-s-Play-School_52033
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackay, William
+    gutenberg_agent_id: '46479'
+    url: http://www.gutenberg.org/2009/agents/46479
+description: ''
+gutenberg_issued: '2016-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robertson, T. W. (Thomas William), 1829-1871. "School"'
+- !lcc 'PR'
+- GITenberg
+title: William Mackay on T. W. Robertson's Play "School"
+url: http://www.gutenberg.org/ebooks/52033
